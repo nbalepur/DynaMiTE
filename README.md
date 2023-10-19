@@ -1,6 +1,6 @@
 # DynaMiTE: Discovering Explosive Topic Evolutions with User Guidance
 
-This repository is the official implementation of "DynaMiTE: Discovering Explosive Topic Evolutions with User Guidance"
+This repository is the official implementation of "DynaMiTE: Discovering Explosive Topic Evolutions with User Guidance", which was accepted to Findings of ACL 2023
 
 ![model name](images/model.png)
 
