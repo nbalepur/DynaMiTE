@@ -4,6 +4,12 @@ This repository is the official implementation of "DynaMiTE: Discovering Explosi
 
 ![model name](images/model.png)
 
+## Datasets
+
+The datasets used in our experiments can be found on Huggingface [here](nbalepur/DynaMiTE)! There are three splits in the dataset: `arxiv`, `un`, and `newspop`, which correspond to the three datasets used in the paper. Each dataset also has two columns:
+- `text`: The text of the document in the corpus
+- `time_discrete`: The time stamp of the document in the corpus
+
 ## Requirements
 
 This code was run on Python 3.8.10. We recommend creating a [virtual environment](https://docs.python.org/3/library/venv.html) to run `DynaMiTE`.
